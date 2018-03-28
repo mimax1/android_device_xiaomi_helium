@@ -1,0 +1,2 @@
+allow fingerprintd fingerprint_service:service_manager { find };
+set_prop(fingerprintd, system_prop)
